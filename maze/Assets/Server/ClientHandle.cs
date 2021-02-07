@@ -77,9 +77,10 @@ public class ClientHandle : MonoBehaviour
     public static void TimeOfDay(Packet _packet)
     {
         float tod = _packet.ReadFloat();
+        int seed = _packet.ReadInt();
         TD.UpdateLighting(tod);
         //td.SetTime(tod);
-        //UnityEngine.Debug.Log(tod);
+        Debug.Log(seed);
         //LightingManager LM = new LightingManager();
         // LM.UpdateLighting(tod/24f);
         // LightingManager.Run(tod);

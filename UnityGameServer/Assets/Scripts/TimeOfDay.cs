@@ -8,6 +8,7 @@ public class TimeOfDay : MonoBehaviour
     public bool start = false;
     [Range(0, 24)] public float timeofday = 0f;
     public float speed = 100.01f;
+    //public bool day = false;
     public void Update()
     {
         if (Server.CurrentPlayers >= playables || start)
@@ -15,7 +16,7 @@ public class TimeOfDay : MonoBehaviour
             start = true;
             timeofday += Time.deltaTime * speed;
             timeofday %= 24;
-            ServerSend.TimeOfDay(timeofday/24);
+            ServerSend.TimeOfDays(timeofday/24);
             //Debug.Log(timeofday);
         }
     }

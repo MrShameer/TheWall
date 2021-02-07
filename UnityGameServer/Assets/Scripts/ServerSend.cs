@@ -162,12 +162,28 @@ public class ServerSend
 
 
     //AKU TAMBAH
-    public static void TimeOfDay(float tod)
+    bool day = false;
+    public static void TimeOfDays(float tod)
     {
         using (Packet _packet = new Packet((int)ServerPackets.timeofday))
         {
             _packet.Write(tod);
 
+            //SendTCPDataToAll(_packet);
+            if(tod <= 6f || tod > 19.5f && !day)
+            {
+                
+                day = true;
+            }
+            else if (tod > 6f && tod < 6.5f && day) //day
+            {
+                _packet.Write(Random.Range(1000, 9999));
+                SendTCPDataToAll(_packet);
+                day = false;
+                Debug.Log(day);
+                return;
+            }
+            _packet.Write(0);
             SendTCPDataToAll(_packet);
         }
     }
