@@ -170,7 +170,7 @@ public class ServerSend
             _packet.Write(tod);
 
             //SendTCPDataToAll(_packet);
-            if(tod <= 6f || tod > 19.5f && !day)
+            /*if(tod <= 6f || tod > 19.5f && !day)
             {
                 
                 day = true;
@@ -184,7 +184,7 @@ public class ServerSend
                 return;
             }
             _packet.Write(0);
-            SendTCPDataToAll(_packet);
+            SendTCPDataToAll(_packet);*/
         }
     }
     #endregion
