@@ -13,30 +13,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-01T01:22:25.216+08:00
-  initializedAtString: 2021-04-30T23:28:57.468+08:00
+  lastUpdatedAtString: 2021-05-02T01:28:57.566+08:00
+  initializedAtString: 2021-05-01T21:02:15.741+08:00
   entries:
-  - path: maze\Library\Artifacts\ea\eae78b878b980d0fad35a909a9cfd3ce
-    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\ea\eae78b878b980d0fad35a909a9cfd3ce
-    projectPath: Library\Artifacts\ea\eae78b878b980d0fad35a909a9cfd3ce
+  - path: maze\.vs\maze\v16\.suo
+    fullPath: E:\Unity Project\TheWall\maze\.vs\maze\v16\.suo
+    projectPath: .vs\maze\v16\.suo
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: maze\Library\Artifacts\f6\f69eedd51f60b97b1a1ba31c13158649
-    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\f6\f69eedd51f60b97b1a1ba31c13158649
-    projectPath: Library\Artifacts\f6\f69eedd51f60b97b1a1ba31c13158649
+    workTreeStatus: 3
+  - path: maze\Assets\MazeGenerator\demo.unity
+    fullPath: E:\Unity Project\TheWall\maze\Assets\MazeGenerator\demo.unity
+    projectPath: Assets\MazeGenerator\demo.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: maze\Assets\Server\Client.cs
+    fullPath: E:\Unity Project\TheWall\maze\Assets\Server\Client.cs
+    projectPath: Assets\Server\Client.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Assets\Server\ClientHandle.cs
+    fullPath: E:\Unity Project\TheWall\maze\Assets\Server\ClientHandle.cs
+    projectPath: Assets\Server\ClientHandle.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Assets\Server\UIManager.cs
+    fullPath: E:\Unity Project\TheWall\maze\Assets\Server\UIManager.cs
+    projectPath: Assets\Server\UIManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\ArtifactDB
+    fullPath: E:\Unity Project\TheWall\maze\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\Artifacts\43\4390a7a80af022bcddced2cc9ba8dc04
+    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\43\4390a7a80af022bcddced2cc9ba8dc04
+    projectPath: Library\Artifacts\43\4390a7a80af022bcddced2cc9ba8dc04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Library\Artifacts\a2\a2f173fe22c313cf2995ba1f6bbef735
+    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\a2\a2f173fe22c313cf2995ba1f6bbef735
+    projectPath: Library\Artifacts\a2\a2f173fe22c313cf2995ba1f6bbef735
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Library\Artifacts\c7\c764218e36dd32145261c0c2383a866c
+    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\c7\c764218e36dd32145261c0c2383a866c
+    projectPath: Library\Artifacts\c7\c764218e36dd32145261c0c2383a866c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Library\Artifacts\d9\d958c3b54bec06e68ca0a951b5c3d803
+    fullPath: E:\Unity Project\TheWall\maze\Library\Artifacts\d9\d958c3b54bec06e68ca0a951b5c3d803
+    projectPath: Library\Artifacts\d9\d958c3b54bec06e68ca0a951b5c3d803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: maze\Library\CurrentLayout-default.dwlt
     fullPath: E:\Unity Project\TheWall\maze\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: maze\Library\EditorInstance.json
+    fullPath: E:\Unity Project\TheWall\maze\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\EditorSnapSettings.asset
+    fullPath: E:\Unity Project\TheWall\maze\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: maze\Library\gfu\cache\branches.yaml
     fullPath: E:\Unity Project\TheWall\maze\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Unity Project\TheWall\maze\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,6 +136,48 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: maze\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Unity Project\TheWall\maze\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: E:\Unity Project\TheWall\maze\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: E:\Unity Project\TheWall\maze\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: E:\Unity Project\TheWall\maze\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: E:\Unity Project\TheWall\maze\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: E:\Unity Project\TheWall\maze\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: maze\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: E:\Unity Project\TheWall\maze\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: maze\Library\SourceAssetDB
     fullPath: E:\Unity Project\TheWall\maze\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -92,23 +200,59 @@ MonoBehaviour:
     fullPath: E:\Unity Project\TheWall\maze\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: maze\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: E:\Unity Project\TheWall\maze\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: maze\Temp\UnityLockfile
     fullPath: E:\Unity Project\TheWall\maze\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: maze\Temp\UnityTempFile-61acd25c2781c6040b16050a78745225
-    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-61acd25c2781c6040b16050a78745225
-    projectPath: Temp\UnityTempFile-61acd25c2781c6040b16050a78745225
+  - path: maze\Temp\UnityTempFile-0391dfa62d8b289458f0d84c28d6f869
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-0391dfa62d8b289458f0d84c28d6f869
+    projectPath: Temp\UnityTempFile-0391dfa62d8b289458f0d84c28d6f869
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-3abaa89fe7454b04487ab90efd16ca7a
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-3abaa89fe7454b04487ab90efd16ca7a
+    projectPath: Temp\UnityTempFile-3abaa89fe7454b04487ab90efd16ca7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-6b2c2bc9fb91e094c90e9af204a5331e
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-6b2c2bc9fb91e094c90e9af204a5331e
+    projectPath: Temp\UnityTempFile-6b2c2bc9fb91e094c90e9af204a5331e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-9f0025e3f9704a149a71d67b7cf09ad1
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-9f0025e3f9704a149a71d67b7cf09ad1
+    projectPath: Temp\UnityTempFile-9f0025e3f9704a149a71d67b7cf09ad1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-9f4eba91f7521c14ca013c475aa1f3a7
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-9f4eba91f7521c14ca013c475aa1f3a7
+    projectPath: Temp\UnityTempFile-9f4eba91f7521c14ca013c475aa1f3a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-bb56942ebb3da394b85d8ddef0f7da16
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-bb56942ebb3da394b85d8ddef0f7da16
+    projectPath: Temp\UnityTempFile-bb56942ebb3da394b85d8ddef0f7da16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-dfd5dcaf1b2b98a4c878c8d6aec200a6
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-dfd5dcaf1b2b98a4c878c8d6aec200a6
+    projectPath: Temp\UnityTempFile-dfd5dcaf1b2b98a4c878c8d6aec200a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: maze\Temp\UnityTempFile-eecb1b0a838bfce4aaa872bac7e4df00
+    fullPath: E:\Unity Project\TheWall\maze\Temp\UnityTempFile-eecb1b0a838bfce4aaa872bac7e4df00
+    projectPath: Temp\UnityTempFile-eecb1b0a838bfce4aaa872bac7e4df00
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -124,27 +268,135 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: UnityGameServer\Assets\Scripts\TimeOfDay.cs
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Assets\Scripts\TimeOfDay.cs
+    projectPath: ..\UnityGameServer\Assets\Scripts\TimeOfDay.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UnityGameServer\Library\ArtifactDB
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\ArtifactDB
     projectPath: ..\UnityGameServer\Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: UnityGameServer\Library\Artifacts\0a\0a7790dff68967792ddbf1abc7f2595a
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\0a\0a7790dff68967792ddbf1abc7f2595a
+    projectPath: ..\UnityGameServer\Library\Artifacts\0a\0a7790dff68967792ddbf1abc7f2595a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Library\Artifacts\0e\0edce41c27637a6c1869c412c8d409ee
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\0e\0edce41c27637a6c1869c412c8d409ee
     projectPath: ..\UnityGameServer\Library\Artifacts\0e\0edce41c27637a6c1869c412c8d409ee
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: UnityGameServer\Library\Artifacts\37\372cf6b2c733640f1c034b40ca409a22
-    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\37\372cf6b2c733640f1c034b40ca409a22
-    projectPath: ..\UnityGameServer\Library\Artifacts\37\372cf6b2c733640f1c034b40ca409a22
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\13\13f2bfa8ec8e4303d71d903d3cb25d7b
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\13\13f2bfa8ec8e4303d71d903d3cb25d7b
+    projectPath: ..\UnityGameServer\Library\Artifacts\13\13f2bfa8ec8e4303d71d903d3cb25d7b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: UnityGameServer\Library\Artifacts\e2\e2546d098c5c09e6e94969954015215e
-    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\e2\e2546d098c5c09e6e94969954015215e
-    projectPath: ..\UnityGameServer\Library\Artifacts\e2\e2546d098c5c09e6e94969954015215e
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\2d\2d48b3eaf6f764e3437aba59bfda44ce
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\2d\2d48b3eaf6f764e3437aba59bfda44ce
+    projectPath: ..\UnityGameServer\Library\Artifacts\2d\2d48b3eaf6f764e3437aba59bfda44ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\39\39b67df40f5701696be14336b8dc3107
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\39\39b67df40f5701696be14336b8dc3107
+    projectPath: ..\UnityGameServer\Library\Artifacts\39\39b67df40f5701696be14336b8dc3107
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\41\4146e415b24140347d6fef5edb16a3cd
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\41\4146e415b24140347d6fef5edb16a3cd
+    projectPath: ..\UnityGameServer\Library\Artifacts\41\4146e415b24140347d6fef5edb16a3cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\43\43151abdd9f3f70cb51f42fb6b7dd2b5
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\43\43151abdd9f3f70cb51f42fb6b7dd2b5
+    projectPath: ..\UnityGameServer\Library\Artifacts\43\43151abdd9f3f70cb51f42fb6b7dd2b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\5b\5b83042eb1e1d31d23e5f9da6567608d
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\5b\5b83042eb1e1d31d23e5f9da6567608d
+    projectPath: ..\UnityGameServer\Library\Artifacts\5b\5b83042eb1e1d31d23e5f9da6567608d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\63\63041491629ef2d59027efd2c6122861
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\63\63041491629ef2d59027efd2c6122861
+    projectPath: ..\UnityGameServer\Library\Artifacts\63\63041491629ef2d59027efd2c6122861
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\6a\6a85775b779079da077a0ee8271cc000
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\6a\6a85775b779079da077a0ee8271cc000
+    projectPath: ..\UnityGameServer\Library\Artifacts\6a\6a85775b779079da077a0ee8271cc000
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\6f\6f76a4fad5e2f4fd8290e0c95922920c
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\6f\6f76a4fad5e2f4fd8290e0c95922920c
+    projectPath: ..\UnityGameServer\Library\Artifacts\6f\6f76a4fad5e2f4fd8290e0c95922920c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\7c\7c4677aa3444ed7cc379e399bcb5403d
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\7c\7c4677aa3444ed7cc379e399bcb5403d
+    projectPath: ..\UnityGameServer\Library\Artifacts\7c\7c4677aa3444ed7cc379e399bcb5403d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\81\810ef06244e6f0488fd6b28602f6d25a
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\81\810ef06244e6f0488fd6b28602f6d25a
+    projectPath: ..\UnityGameServer\Library\Artifacts\81\810ef06244e6f0488fd6b28602f6d25a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\ab\ab8015661e92d35d9d71b093de08edc3
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\ab\ab8015661e92d35d9d71b093de08edc3
+    projectPath: ..\UnityGameServer\Library\Artifacts\ab\ab8015661e92d35d9d71b093de08edc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\b0\b0e2b1b8239987d3b380c65426e865e8
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\b0\b0e2b1b8239987d3b380c65426e865e8
+    projectPath: ..\UnityGameServer\Library\Artifacts\b0\b0e2b1b8239987d3b380c65426e865e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\b1\b11bee0fd53fdc427b26bbb906666dbb
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\b1\b11bee0fd53fdc427b26bbb906666dbb
+    projectPath: ..\UnityGameServer\Library\Artifacts\b1\b11bee0fd53fdc427b26bbb906666dbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\b6\b6d9046f222ef716f2bc02cc5f1af347
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\b6\b6d9046f222ef716f2bc02cc5f1af347
+    projectPath: ..\UnityGameServer\Library\Artifacts\b6\b6d9046f222ef716f2bc02cc5f1af347
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\be\becbd258186bc120a218a6372e9e502c
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\be\becbd258186bc120a218a6372e9e502c
+    projectPath: ..\UnityGameServer\Library\Artifacts\be\becbd258186bc120a218a6372e9e502c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\d3\d3e8bc3c2fafbabd29660c11b7ef8e36
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\d3\d3e8bc3c2fafbabd29660c11b7ef8e36
+    projectPath: ..\UnityGameServer\Library\Artifacts\d3\d3e8bc3c2fafbabd29660c11b7ef8e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Library\Artifacts\e3\e3c77c0902995de6f7d45047f9998796
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\Artifacts\e3\e3c77c0902995de6f7d45047f9998796
+    projectPath: ..\UnityGameServer\Library\Artifacts\e3\e3c77c0902995de6f7d45047f9998796
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -160,6 +412,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: UnityGameServer\Library\EditorSnapSettings.asset
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\EditorSnapSettings.asset
+    projectPath: ..\UnityGameServer\Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UnityGameServer\Library\SceneVisibilityState.asset
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\SceneVisibilityState.asset
     projectPath: ..\UnityGameServer\Library\SceneVisibilityState.asset
@@ -178,15 +436,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: UnityGameServer\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: ..\UnityGameServer\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+  - path: UnityGameServer\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: ..\UnityGameServer\Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityGameServer\Library\SourceAssetDB
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\SourceAssetDB
+    projectPath: ..\UnityGameServer\Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityGameServer\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: ..\UnityGameServer\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityGameServer\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: ..\UnityGameServer\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityGameServer\Temp\__Backupscenes\0.backup
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\__Backupscenes\0.backup
+    projectPath: ..\UnityGameServer\Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: UnityGameServer\Temp\UnityLockfile
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityLockfile
     projectPath: ..\UnityGameServer\Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-0075118074df5ed40b5d9586e777072e
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-0075118074df5ed40b5d9586e777072e
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-0075118074df5ed40b5d9586e777072e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -194,17 +482,47 @@ MonoBehaviour:
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-0705574fbb836214da1a76a04fdf3a85
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-0705574fbb836214da1a76a04fdf3a85
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-09d76444450a4984cb9464763cabc9bd
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-09d76444450a4984cb9464763cabc9bd
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-09d76444450a4984cb9464763cabc9bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-106a9a73f05dc1240938287a8ab7debb
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-106a9a73f05dc1240938287a8ab7debb
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-106a9a73f05dc1240938287a8ab7debb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-21b0887c41c7ddc4a9527974573d8047
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-21b0887c41c7ddc4a9527974573d8047
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-21b0887c41c7ddc4a9527974573d8047
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: UnityGameServer\Temp\UnityTempFile-245dc6063d35b5e49bc7189ea537cb30
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-245dc6063d35b5e49bc7189ea537cb30
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-245dc6063d35b5e49bc7189ea537cb30
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Temp\UnityTempFile-283b2de5540a4c6419c566f44aad482d
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-283b2de5540a4c6419c566f44aad482d
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-283b2de5540a4c6419c566f44aad482d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-2cafb7d4552c6c24e8d64cbb608f41d7
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-2cafb7d4552c6c24e8d64cbb608f41d7
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-2cafb7d4552c6c24e8d64cbb608f41d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-2d5171c0a76f6624aab400fdbae89046
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-2d5171c0a76f6624aab400fdbae89046
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-2d5171c0a76f6624aab400fdbae89046
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -212,11 +530,17 @@ MonoBehaviour:
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-2ee5535dff10ad741b0f3191ea5ac070
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-2ee5535dff10ad741b0f3191ea5ac070
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Temp\UnityTempFile-4a78453a82aac3d4bbbd294c55edcc66
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-4a78453a82aac3d4bbbd294c55edcc66
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-4a78453a82aac3d4bbbd294c55edcc66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-5351dc5a1e1da2843869b016f90758d0
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-5351dc5a1e1da2843869b016f90758d0
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-5351dc5a1e1da2843869b016f90758d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -224,29 +548,125 @@ MonoBehaviour:
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-65167086ac0c8cc4e9513cb480ad9bef
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-65167086ac0c8cc4e9513cb480ad9bef
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-6e4e09bef64b3724a800cd1b956f6e20
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-6e4e09bef64b3724a800cd1b956f6e20
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-6e4e09bef64b3724a800cd1b956f6e20
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: UnityGameServer\Temp\UnityTempFile-73a2235a217c46445be8cde482a5359b
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-73a2235a217c46445be8cde482a5359b
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-73a2235a217c46445be8cde482a5359b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Temp\UnityTempFile-89c5c6010a96fd84e8d74d8784dce108
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-89c5c6010a96fd84e8d74d8784dce108
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-89c5c6010a96fd84e8d74d8784dce108
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Temp\UnityTempFile-9581698496c352540ab56feaddb5318f
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-9581698496c352540ab56feaddb5318f
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-9581698496c352540ab56feaddb5318f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: UnityGameServer\Temp\UnityTempFile-96eaa794a9b6d5f429532d731fa3d16c
     fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-96eaa794a9b6d5f429532d731fa3d16c
     projectPath: ..\UnityGameServer\Temp\UnityTempFile-96eaa794a9b6d5f429532d731fa3d16c
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-9ed718216ff2bad4fa1e17b5f57651b4
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-9ed718216ff2bad4fa1e17b5f57651b4
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-9ed718216ff2bad4fa1e17b5f57651b4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-a17d3e227189767469a37440415f6223
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-a17d3e227189767469a37440415f6223
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-a17d3e227189767469a37440415f6223
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-a4200367c17faf54a9f103fdffa54b10
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-a4200367c17faf54a9f103fdffa54b10
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-a4200367c17faf54a9f103fdffa54b10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-acbc791394c11614194e069b8c08480f
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-acbc791394c11614194e069b8c08480f
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-acbc791394c11614194e069b8c08480f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-b1e1e9d6c771f4743ad7fa7e8f752c27
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-b1e1e9d6c771f4743ad7fa7e8f752c27
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-b1e1e9d6c771f4743ad7fa7e8f752c27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-b725882265f552247a3591cfd728c27e
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-b725882265f552247a3591cfd728c27e
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-b725882265f552247a3591cfd728c27e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-b8ba09d15006b4b4fb1a06fc7574b408
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-b8ba09d15006b4b4fb1a06fc7574b408
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-b8ba09d15006b4b4fb1a06fc7574b408
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-bc81993cd21a5a845a3bd23b917cd146
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-bc81993cd21a5a845a3bd23b917cd146
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-bc81993cd21a5a845a3bd23b917cd146
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-c2112f6fe32cf3b44b0302c1c4ea3bac
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-c2112f6fe32cf3b44b0302c1c4ea3bac
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-c2112f6fe32cf3b44b0302c1c4ea3bac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-c3a0ee057fa69bc4b8b79c8ba3cc2fa1
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-c3a0ee057fa69bc4b8b79c8ba3cc2fa1
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-c3a0ee057fa69bc4b8b79c8ba3cc2fa1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-d34e4e667bbc10e40872faebf1ba0b6e
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-d34e4e667bbc10e40872faebf1ba0b6e
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-d34e4e667bbc10e40872faebf1ba0b6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-d78aacb1930bf344889fc1bafafb572d
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-d78aacb1930bf344889fc1bafafb572d
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-d78aacb1930bf344889fc1bafafb572d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-df2e14f0cb57b4240b9d42597f384d17
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-df2e14f0cb57b4240b9d42597f384d17
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-df2e14f0cb57b4240b9d42597f384d17
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: UnityGameServer\Temp\UnityTempFile-fe1f7980db22b6e489cc07efc4d33fdc
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-fe1f7980db22b6e489cc07efc4d33fdc
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-fe1f7980db22b6e489cc07efc4d33fdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UnityGameServer\Temp\UnityTempFile-fe76bf5dd4af0034ca9e80ba4c59b56d
+    fullPath: E:\Unity Project\TheWall\UnityGameServer\Temp\UnityTempFile-fe76bf5dd4af0034ca9e80ba4c59b56d
+    projectPath: ..\UnityGameServer\Temp\UnityTempFile-fe76bf5dd4af0034ca9e80ba4c59b56d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5

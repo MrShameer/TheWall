@@ -69,7 +69,7 @@ public class ClientHandle : MonoBehaviour
     public static void PlayerRespawned(Packet _packet)
     {
         int _id = _packet.ReadInt();
-
+        Debug.Log(_id);
         GameManager.players[_id].Respawn();
     }
 

@@ -39,6 +39,11 @@ public class Client : MonoBehaviour
         udp = new UDP();
     }
 
+    public void setip(String _ip)
+    {
+        ip = _ip;
+    }
+
     private void OnApplicationQuit()
     {
         Disconnect(); // Disconnect when the game is closed
